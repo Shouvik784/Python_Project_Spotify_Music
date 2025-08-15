@@ -1,6 +1,5 @@
 # Python_project_Spotify_Music
-
-# Spotify Music Graph Dataset Using Python 
+Spotify Music Graph Dataset Using Python 
 
 # Here You Can See The Following Project Output Instructions
 1. Perform data pre-processing operations.
